@@ -9,6 +9,8 @@ The main dataset is movies.csv containing data on budgets, revenue, ratings, rel
 
 ## Visualizations
 Visualizations created include:
+-> Scatter plots of budget vs gross
+-> Bar charts of genre frequencies
 
 ## Scatter plots of budget vs gross
 Histograms of ratings
